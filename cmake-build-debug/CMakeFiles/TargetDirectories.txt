@@ -1,0 +1,3 @@
+D:/programs/vmla/newPrj/cmake-build-debug/CMakeFiles/newPrj.dir
+D:/programs/vmla/newPrj/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/programs/vmla/newPrj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
